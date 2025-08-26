@@ -1,6 +1,6 @@
 [
     {
-        "role": "list moderators",
+        "role": "owner",
         "name": "List Moderators"
     }
 ]
